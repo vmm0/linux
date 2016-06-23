@@ -1,4 +1,5 @@
 //Check File Access Permissions
+//e.g.- ./check-access /media/user/HDD/book.pdf
 
 #include <errno.h>
 #include <stdio.h>
