@@ -1,2 +1,1 @@
-#Vladimir Milanovic
-#linux programming
+
